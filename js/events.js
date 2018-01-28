@@ -4,8 +4,8 @@ $(document).ready(function(){
 
 function getIt(){
   $('p').on("click", function(){
-	//action you want taken
-});
+    alert("Hey!");
+  });
 }
 
 // call functions here
