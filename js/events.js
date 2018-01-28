@@ -12,6 +12,12 @@ function frameIt(){
   })
 }
 
+function pressIt(){
+  $('submit').on('keydown', function(){
+    alert('Your form is going to be submitted now.');
+  })
+}
+
 $(document).ready(function(){
 
 // call functions here
