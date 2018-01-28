@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 function getIt(){
   $('p').click(function(){
-    if 
+    $("p").click();
     alert("Hey!");
   });
 }
