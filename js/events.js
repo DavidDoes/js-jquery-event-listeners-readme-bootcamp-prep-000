@@ -4,6 +4,7 @@ $(document).ready(function(){
 
 function getIt(){
   $('p').on("click", function(){
+    if 
     alert("Hey!");
   });
 }
