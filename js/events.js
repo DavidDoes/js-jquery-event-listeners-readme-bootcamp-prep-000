@@ -11,6 +11,6 @@ function getIt(){
 
 // call functions here
 
-getIt();
+// getIt();
 
 });
