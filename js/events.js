@@ -13,8 +13,8 @@ function frameIt(){
 }
 
 function pressIt(){
-  $('submit').on('keydown', function(){
-    alert('Your form is going to be submitted now.');
+  $('input').on('keydown', function(){
+    if('')
   })
 }
 
@@ -23,5 +23,7 @@ $(document).ready(function(){
 // call functions here
 
 getIt();
+frameIt();
+pressIt();
 
 });
