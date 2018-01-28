@@ -2,7 +2,9 @@
 
 $(document).ready(function(){
 
-function getIt
+function getIt(){
+  
+}
 
 // call functions here
 
